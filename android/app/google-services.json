@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999081738508",
+    "firebase_url": "https://ted-ed-9c226.firebaseio.com",
+    "project_id": "ted-ed-9c226",
+    "storage_bucket": "ted-ed-9c226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999081738508:android:20816b63634890da42c929",
+        "android_client_info": {
+          "package_name": "com.example.yogaguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999081738508-7i5puho9b71fd6pvhaqnd4laier487hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSc4WS8MjSFhwTYrsfwzQG03PnBlkirmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999081738508-7i5puho9b71fd6pvhaqnd4laier487hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
